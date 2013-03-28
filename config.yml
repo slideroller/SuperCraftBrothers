@@ -1,0 +1,10 @@
+startupAmount: 50
+joinMessage: true
+death-screen-delay: 0
+Message On Jump: false
+Sound: false
+Effect On Jump: false
+Wall Jump: false
+Jump Forward: false
+Jump Height: 3
+Message: Woosh
