@@ -1,10 +1,10 @@
 package me.God_Tenshi.scb.Listener;
 
 import me.God_Tenshi.scb.Main;
-import net.minecraft.server.v1_5_R1.Packet205ClientCommand;
+import net.minecraft.server.v1_5_R2.Packet205ClientCommand;
 
 import org.bukkit.Bukkit;
-import org.bukkit.craftbukkit.v1_5_R1.entity.CraftPlayer;
+import org.bukkit.craftbukkit.v1_5_R2.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
